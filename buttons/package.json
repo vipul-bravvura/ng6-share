@@ -1,0 +1,88 @@
+{
+  "_from": "@ng6-share/buttons",
+  "_id": "@ng6-share/buttons@7.1.0",
+  "_inBundle": false,
+  "_integrity": "sha512-B61H7j7EkzsqK2Xn8EA/EfR9SvkaxOP6JdcRvZe+/WxGU8ESXR/MMQDa+mmOz6anmUQNtiK5qQmNVkiktu268Q==",
+  "_location": "/@ng6-share/buttons",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@ng6-share/buttons",
+    "name": "@ng6-share/buttons",
+    "escapedName": "@ngx-share%2fbuttons",
+    "scope": "@ngx-share",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ng6-share/buttons/-/buttons-7.1.0.tgz",
+  "_shasum": "c97eec0c3d8fdd17feeff4751636782b87d11292",
+  "_spec": "@ng6-share/buttons",
+  "_where": "D:\\vipul\\Zavo\\zavo-frontend",
+  "author": {
+    "name": "Murhaf Sousli",
+    "url": "http://github.com/MurhafSousli"
+  },
+  "bugs": {
+    "url": "https://github.com/murhafsousli/ngx-sharebuttons/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  },
+  "deprecated": false,
+  "description": "Share buttons components for Angular and Ionic.",
+  "es2015": "fesm2015/ngx-share-buttons.js",
+  "esm2015": "esm2015/ngx-share-buttons.js",
+  "esm5": "esm5/ngx-share-buttons.js",
+  "fesm2015": "fesm2015/ngx-share-buttons.js",
+  "fesm5": "fesm5/ngx-share-buttons.js",
+  "homepage": "http://github.com/MurhafSousli/ngx-sharebuttons",
+  "keywords": [
+    "angular",
+    "share-links",
+    "share-buttons",
+    "sharebuttons",
+    "share",
+    "buttons",
+    "facebook",
+    "twitter",
+    "pinterest",
+    "tumblr",
+    "stumbleupon",
+    "googleplus",
+    "linkedin",
+    "reddit",
+    "telegram",
+    "vk",
+    "copy",
+    "print",
+    "email"
+  ],
+  "license": "MIT",
+  "main": "bundles/ngx-share-buttons.umd.js",
+  "metadata": "ngx-share-buttons.metadata.json",
+  "module": "fesm5/ngx-share-buttons.js",
+  "name": "@ng6-share/buttons",
+  "peerDependencies": {
+    "@angular/core": ">=6.0.0",
+    "@angular/common": ">=6.0.0",
+    "rxjs": ">=6.0.0",
+    "@fortawesome/angular-fontawesome": ">=0.3.0",
+    "@ng6-share/core": "7.1.0",
+    "@ng6-share/button": "7.1.0"
+  },
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/murhafsousli/ngx-sharebuttons.git"
+  },
+  "sideEffects": false,
+  "typings": "ngx-share-buttons.d.ts",
+  "version": "7.1.0"
+}
